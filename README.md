@@ -55,9 +55,13 @@ export default class App extends React.Component {
 
 E-mail, firstName, lastName, and data all pass data through to the agent chatting with the app user.
 
+#### style (optional)
+
+Style the component. To display the chat full screen, it is recommended that you set this prop to `{ marginTop: 20 }` in order to leave space for the 
+
 #### styleOverrides (optional)
 
-The styleOverrides prop alllows advanced customization of styles.
+The styleOverrides prop alllows advanced customization of the Agent Q widget itself.
 
 #### handleOpenURL (optional)
 
