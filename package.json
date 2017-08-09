@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "maintainers": [
     { "name": "TerraformLabs",
-      "email" "support@agentq.ai"
+      "email": "support@agentq.ai"
     },
     {
       "name": "apodolny",
