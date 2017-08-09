@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "prop-types": "^15.5.10",
-    "react": "^16.0.0",
+    "react": "^15.3.2",
     "react-native": "^0.46.1"
   }
 }
