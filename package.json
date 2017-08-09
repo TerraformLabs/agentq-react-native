@@ -1,6 +1,6 @@
 {
   "name": "agentq-react-native",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Incorporate Agent Q—the A.I. powered chat platform for sales and customer service—into React Native apps.",
   "main": "lib/index.js",
   "maintainers": [
