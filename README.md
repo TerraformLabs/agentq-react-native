@@ -4,18 +4,17 @@ Incorporate Agent Q—the A.I. powered chat platform for sales and customer serv
 
 ## Installation
 
-### NPM
-
-```bash
-npm install agentq-react-native
-```
-
 ### Yarn
 
 ```bash
 yarn add agentq-react-native
 ```
 
+### NPM
+
+```bash
+npm i --save agentq-react-native
+```
 
 ## Usage
 
