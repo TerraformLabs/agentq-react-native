@@ -57,11 +57,11 @@ E-mail, firstName, lastName, and data all pass data through to the agent chattin
 
 #### style (optional)
 
-Style the component. To display the chat full screen, it is recommended that you set this prop to `{ marginTop: 20 }` in order to leave space for the 
+Style the component. To display the chat full screen, it is recommended that you set this prop to `{ marginTop: 20 }` in order to leave space for the status bar.
 
 #### styleOverrides (optional)
 
-The styleOverrides prop alllows advanced customization of the Agent Q widget itself.
+The styleOverrides prop alllows advanced customization of the Agent Q widget itself (e.g., header style, chat bubble color). See the full list of keys in [the documentation](https://s3.amazonaws.com/aq-assets/docs/Agent+Q+Widget+Style+Override+DOM+API.pdf).
 
 #### handleOpenURL (optional)
 
