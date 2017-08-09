@@ -4,6 +4,9 @@
   "description": "Incorporate Agent Q—the A.I. powered chat platform for sales and customer service—into React Native apps.",
   "main": "lib/index.js",
   "maintainers": [
+    { "name": "TerraformLabs",
+      "email" "support@agentq.ai"
+    },
     {
       "name": "apodolny",
       "email": "aaron@agentq.ai"
@@ -12,7 +15,7 @@
   "licenses": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://git@github.com/apodolny/agentq-react-native.git"
+    "url": "git+https://git@github.com/TerraformLabs/agentq-react-native.git"
   },
   "dependencies": {
     "prop-types": "^15.5.10",
